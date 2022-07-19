@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ServerApp.Server/1.0.0": {
+        "dependencies": {
+          "Joclibrarie.Library": "1.0.0",
+          "Lidgren.Network": "1.0.2"
+        },
+        "runtime": {
+          "ServerApp.Server.dll": {}
+        }
+      },
+      "Lidgren.Network/1.0.2": {
+        "runtime": {
+          "lib/net451/Lidgren.Network.dll": {
+            "assemblyVersion": "2012.1.7.0",
+            "fileVersion": "2012.1.7.0"
+          }
+        }
+      },
+      "Joclibrarie.Library/1.0.0": {
+        "runtime": {
+          "Joclibrarie.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServerApp.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lidgren.Network/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yXg3ccH3OYFGnsXxzcrUo2FXsXHaZzTUjRCg84NCPGnZyjw6MhwJFHe6MdEVIzejXsE86Kto/sgeV29HSRc8xQ==",
+      "path": "lidgren.network/1.0.2",
+      "hashPath": "lidgren.network.1.0.2.nupkg.sha512"
+    },
+    "Joclibrarie.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

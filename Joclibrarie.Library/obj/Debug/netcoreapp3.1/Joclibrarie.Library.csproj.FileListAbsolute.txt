@@ -1,0 +1,10 @@
+D:\Games Created\TDS\Joclibrarie.Library\bin\Debug\netcoreapp3.1\Joclibrarie.Library.deps.json
+D:\Games Created\TDS\Joclibrarie.Library\bin\Debug\netcoreapp3.1\Joclibrarie.Library.dll
+D:\Games Created\TDS\Joclibrarie.Library\bin\Debug\netcoreapp3.1\Joclibrarie.Library.pdb
+D:\Games Created\TDS\Joclibrarie.Library\obj\Debug\netcoreapp3.1\Joclibrarie.Library.csproj.AssemblyReference.cache
+D:\Games Created\TDS\Joclibrarie.Library\obj\Debug\netcoreapp3.1\Joclibrarie.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games Created\TDS\Joclibrarie.Library\obj\Debug\netcoreapp3.1\Joclibrarie.Library.AssemblyInfoInputs.cache
+D:\Games Created\TDS\Joclibrarie.Library\obj\Debug\netcoreapp3.1\Joclibrarie.Library.AssemblyInfo.cs
+D:\Games Created\TDS\Joclibrarie.Library\obj\Debug\netcoreapp3.1\Joclibrarie.Library.csproj.CoreCompileInputs.cache
+D:\Games Created\TDS\Joclibrarie.Library\obj\Debug\netcoreapp3.1\Joclibrarie.Library.dll
+D:\Games Created\TDS\Joclibrarie.Library\obj\Debug\netcoreapp3.1\Joclibrarie.Library.pdb
